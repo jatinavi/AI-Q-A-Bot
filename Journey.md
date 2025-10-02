@@ -18,3 +18,5 @@
 ### Question: What is AI?
 ### Answer: What is AI? How can I learn it? Robot: AI is an acronym that stands for Artificial Intelligence. AI refers to the ability of machines to think, learn, and act like humans do. In the field of computer science.
 ### Note: Current response limit is 100 characters in the interface to make things simple. 
+# Everything is in this Colab Notebook -- https://colab.research.google.com/drive/1ZiechtmY3BCOyAPWZVjDKH99JErT5kEv?usp=sharing
+# this is the StreamLit UI Link that I created using Ngrok -- https://unfrenzied-arnulfo-nonrateably.ngrok-free.dev
